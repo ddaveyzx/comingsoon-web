@@ -6,7 +6,7 @@
 
 let secValue = 59,
   minValue = 59,
-  hourValue = 59,
+  hourValue = 120,
   dayValue = 200;
 
 const timeFunction = setInterval(() => {
