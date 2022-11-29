@@ -4,10 +4,10 @@
   hours = document.querySelector(".hours .number"),
   days = document.querySelector(".days .number");
 
-let secValue = 11,
-  minValue = 2,
-  hourValue = 2,
-  dayValue = 9;
+let secValue = 59,
+  minValue = 59,
+  hourValue = 59,
+  dayValue = 200;
 
 const timeFunction = setInterval(() => {
   secValue--;
